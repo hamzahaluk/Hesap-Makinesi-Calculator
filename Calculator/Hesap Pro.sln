@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Hesap Pro", "Hesap Pro\Hesap Pro.vdproj", "{A1F0E947-0E7B-45D1-A9D5-D37BC0F30B38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1F0E947-0E7B-45D1-A9D5-D37BC0F30B38}.Debug|Default.ActiveCfg = Debug
+		{A1F0E947-0E7B-45D1-A9D5-D37BC0F30B38}.Debug|Default.Build.0 = Debug
+		{A1F0E947-0E7B-45D1-A9D5-D37BC0F30B38}.Release|Default.ActiveCfg = Release
+		{A1F0E947-0E7B-45D1-A9D5-D37BC0F30B38}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
